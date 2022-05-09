@@ -1,2 +1,2 @@
 # Cython
-To be better python compiler.
+Combined with Cython, to be a better python compiler.
